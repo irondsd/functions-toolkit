@@ -1,5 +1,5 @@
 {
-  "name": "@liquorice/chainlink-functions-toolkit",
+  "name": "chainlink-functions-toolkit-liquorice-fork",
   "private": false,
   "version": "0.3.3",
   "description": "An NPM package with collection of functions that can be used for working with Chainlink Functions.",
